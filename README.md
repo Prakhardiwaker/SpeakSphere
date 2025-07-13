@@ -59,7 +59,9 @@
 ```bash
 git clone https://github.com/your-username/speaksphere.git
 cd speaksphere
+```
 
+```
 ----
 ### 🗂️ Folder Structure
 speaksphere/
@@ -83,7 +85,7 @@ speaksphere/
     ├── controllers/
     ├── server.js
     └── ...
-
+```
 
 ⚙️ Install Dependencies
 ----
