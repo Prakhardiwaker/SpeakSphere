@@ -12,6 +12,8 @@ import PageLoader from "./components/PageLoader.jsx";
 import useAuthUser from "./hooks/useAuthUser.js";
 import Layout from "./components/Layout.jsx";
 import { useThemeStore } from "../src/store/useThemeStore.js";
+import Friends from "./pages/Friends.jsx";
+import PrivacyPolicies from "./pages/PrivacyPolicies.jsx";
 
 function App() {
   const { isLoading, authUser } = useAuthUser();
@@ -105,6 +107,19 @@ function App() {
             )
           }
         />
+        <Route
+          path="/friends"
+          element={
+            isAuthenticated && isOnboarded ? (
+              <Layout showSidebar>
+                <Friends />
+              </Layout>
+            ) : (
+              <Navigate to="/login" />
+            )
+          }
+        />
+        <Route path="/privacypolicies" element={<PrivacyPolicies />} />
       </Routes>
       <Toaster />
     </div>

@@ -55,7 +55,7 @@ function NotificationsPage() {
                   {incomingRequests.map((request) => (
                     <div
                       key={request._id}
-                      className="card bg-base-200 shadow-sm hover:shadow-md transition-shadow"
+                      className="card bg-base-300 shadow-sm hover:shadow-md transition-shadow"
                     >
                       <div className="card-body p-4">
                         <div className="flex items-center justify-between">

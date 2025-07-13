@@ -119,11 +119,11 @@ const SignUpPage = () => {
                       <span className="text-xs leading-tight">
                         I agree to the{" "}
                         <span className="text-primary hover:underline">
-                          terms of service
+                          <Link to={"/privacypolicies"}>terms of service</Link>
                         </span>{" "}
                         and{" "}
                         <span className="text-primary hover:underline">
-                          privacy policy
+                          <Link to={"/privacypolicies"}>privacy policy</Link>
                         </span>
                       </span>
                     </label>
