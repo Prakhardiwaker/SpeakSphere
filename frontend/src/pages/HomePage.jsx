@@ -53,7 +53,7 @@ function HomePage() {
   }, [outgoingFriendReqs]);
 
   return (
-    <div className="p-4 sm:p-6 lg:p-8">
+    <div className="p-4 sm:p-6 lg:p-8 ">
       <div className="container mx-auto space-y-10">
         <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
           <h2 className="text-2xl sm:text-3xl font-bold tracking-tight">
@@ -99,7 +99,7 @@ function HomePage() {
               <span className="loading loading-spinner loading-lg" />
             </div>
           ) : recommendedUsers.length === 0 ? (
-            <div className="card bg-base-200 p-6 text-center">
+            <div className="card bg-base-300 p-6 text-center">
               <h3 className="font-semibold text-lg mb-2">
                 No recommendations available
               </h3>
@@ -115,7 +115,7 @@ function HomePage() {
                 return (
                   <div
                     key={user._id}
-                    className="card bg-base-200 hover:shadow-lg transition-all duration-300"
+                    className="card bg-base-300 hover:shadow-lg transition-all duration-300"
                   >
                     <div className="card-body p-5 space-y-4">
                       <div className="flex items-center gap-3">
