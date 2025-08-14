@@ -28,7 +28,7 @@
 
 | Onboarding Flow                                                                 | Chat Interface                                                                  | Video Call                                                                       | Home Page                                                                        |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| ![](project images\Screenshot_14-7-2025_11569_streamify-ab4y.onrender.com.jpeg) | ![](project images\Screenshot_14-7-2025_11537_streamify-ab4y.onrender.com.jpeg) | ![](project images\Screenshot_14-7-2025_115051_streamify-ab4y.onrender.com.jpeg) | ![](project images\Screenshot_14-7-2025_115358_streamify-ab4y.onrender.com.jpeg) |
+| ![](project-images/Screenshot_14-7-2025_11569_streamify-ab4y-onrender-com.jpeg) | ![](project-images/Screenshot_14-7-2025_11537_streamify-ab4y-onrender-com.jpeg) | ![](project-images/Screenshot_14-7-2025_115051_streamify-ab4y-onrender-com.jpeg) | ![](project-images/Screenshot_14-7-2025_115358_streamify-ab4y-onrender-com.jpeg) |
 
 ## 🚀 Features
 
