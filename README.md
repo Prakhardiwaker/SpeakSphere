@@ -87,40 +87,44 @@ speaksphere/
     └── ...
 ```
 ----
-```
+
 ⚙️ Install Dependencies
 ----
 Frontend-
+```
 cd frontend
 npm install
 npm run dev
+```
 ----
 Backend-
+```
 cd backend
 npm install
 npm run dev
-----
 ```
 ----
-```
+
 
 🔐 Backend .env Example-
 ----
+
 MONGO_URI=your-mongodb-uri
+
 JWT_SECRET=your-jwt-secret
+
 STREAM_API_KEY=your-stream-api-key
+
 STREAM_API_SECRET=your-stream-api-secret
-----
-```
+
 ----
 ```
 
 🌐 Contact
-----
-GitHub: your-[username](https://github.com/Prakhardiwaker)
+---
 
-LinkedIn: your-[link](https://www.linkedin.com/in/prakhar-diwaker-261271122/)
+GitHub:https://github.com/Prakhardiwaker
 
-----
-```
-----
+LinkedIn:https://www.linkedin.com/in/prakhar-diwaker-261271122/
+
+---
