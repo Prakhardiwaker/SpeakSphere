@@ -1,7 +1,5 @@
 # 🗣️ SpeakSphere
 
-![SpeakSphere Banner](./assets/banner.png)
-
 <p align="center">
   <b>🌍 Connect. Learn. Speak. — A modern MERN stack app for global language exchange.</b>
 </p>
@@ -21,16 +19,16 @@
 ---
 
 ## 🔗 Live Demo
+
 [🚀 Click here to try SpeakSphere](https://streamify-ab4y.onrender.com)
 
 ---
 
 ## 📸 Screenshots
 
-| Onboarding Flow | Chat Interface | Video Call |
-|-----------------|----------------|------------|
-| ![](./assets/screenshots/onboarding.png) | ![](./assets/screenshots/chat.png) | ![](./assets/screenshots/video-call.png) |
-
+| Onboarding Flow                                                                 | Chat Interface                                                                  | Video Call                                                                       | Home Page                                                                        |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| ![](project images\Screenshot_14-7-2025_11569_streamify-ab4y.onrender.com.jpeg) | ![](project images\Screenshot_14-7-2025_11537_streamify-ab4y.onrender.com.jpeg) | ![](project images\Screenshot_14-7-2025_115051_streamify-ab4y.onrender.com.jpeg) | ![](project images\Screenshot_14-7-2025_115358_streamify-ab4y.onrender.com.jpeg) |
 
 ## 🚀 Features
 
@@ -70,7 +68,6 @@
 - **dotenv, cors, cookie-parser**
 - **bcryptjs**
 - **Stream Chat SDK (Node)**
-
 
 ## 🧪 Setup Instructions
 
@@ -114,28 +111,32 @@ speaksphere/
     ├── server.js
     └── ...
 ```
-----
 
-⚙️ Install Dependencies
-----
+---
+
+## ⚙️ Install Dependencies
+
 Frontend-
+
 ```
 cd frontend
 npm install
 npm run dev
 ```
-----
+
+---
+
 Backend-
+
 ```
 cd backend
 npm install
 npm run dev
 ```
-----
 
+---
 
-🔐 Backend .env Example-
-----
+## 🔐 Backend .env Example-
 
 MONGO_URI=your-mongodb-uri
 
@@ -145,13 +146,15 @@ STREAM_API_KEY=your-stream-api-key
 
 STREAM_API_SECRET=your-stream-api-secret
 
-----
+---
+
 ```
 
 🌐 Contact
 ---
 
-[💻 GitHub](https://github.com/Prakhardiwaker)  
+[💻 GitHub](https://github.com/Prakhardiwaker)
 [🔗 LinkedIn](https://www.linkedin.com/in/prakhar-diwaker-261271122/)
 
 ---
+```
