@@ -1,8 +1,36 @@
 # 🗣️ SpeakSphere
 
-**SpeakSphere** is a modern, full-featured **MERN stack application** that enables users to connect globally for language exchange. It supports **live chat, video calling**, a smooth **onboarding flow**, **friend system**, and a **custom theme selector**, making the app interactive and personalized.
+![SpeakSphere Banner](./assets/banner.png)
+
+<p align="center">
+  <b>🌍 Connect. Learn. Speak. — A modern MERN stack app for global language exchange.</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Prakhardiwaker/SpeakSphere/stargazers">
+    <img src="https://img.shields.io/github/stars/Prakhardiwaker/SpeakSphere?style=flat&color=yellow" alt="Stars" />
+  </a>
+  <a href="https://github.com/Prakhardiwaker/SpeakSphere/issues">
+    <img src="https://img.shields.io/github/issues/Prakhardiwaker/SpeakSphere?color=blue" alt="Issues" />
+  </a>
+  <a href="https://github.com/Prakhardiwaker/SpeakSphere/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Prakhardiwaker/SpeakSphere?color=green" alt="License" />
+  </a>
+</p>
 
 ---
+
+## 🔗 Live Demo
+[🚀 Click here to try SpeakSphere](https://streamify-ab4y.onrender.com)
+
+---
+
+## 📸 Screenshots
+
+| Onboarding Flow | Chat Interface | Video Call |
+|-----------------|----------------|------------|
+| ![](./assets/screenshots/onboarding.png) | ![](./assets/screenshots/chat.png) | ![](./assets/screenshots/video-call.png) |
+
 
 ## 🚀 Features
 
@@ -123,8 +151,7 @@ STREAM_API_SECRET=your-stream-api-secret
 🌐 Contact
 ---
 
-GitHub:https://github.com/Prakhardiwaker
-
-LinkedIn:https://www.linkedin.com/in/prakhar-diwaker-261271122/
+[💻 GitHub](https://github.com/Prakhardiwaker)  
+[🔗 LinkedIn](https://www.linkedin.com/in/prakhar-diwaker-261271122/)
 
 ---
