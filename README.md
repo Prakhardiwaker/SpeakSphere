@@ -33,15 +33,16 @@ Below are key sections of the application with modern interface designs.
 ### 📲 Onboarding Flow
 
 <p align="center">
-  <img src="images/Screenshot_14-7-2025_11569_streamify-ab4y-onrender-com.jpeg" alt="Onboarding Flow" width="80%" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2);" />
+  <img src="images\Screenshot_14-7-2025_11569_streamify-ab4y.onrender.com.jpeg" alt="Onboarding Flow" width="80%">
 </p>
+
 
 ---
 
 ### 💬 Chat Interface
 
 <p align="center">
-  <img src="images/Screenshot_14-7-2025_11537_streamify-ab4y-onrender-com.jpeg" alt="Chat Interface" width="80%" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2);" />
+  <img src="images\Screenshot_14-7-2025_11537_streamify-ab4y.onrender.com.jpeg" alt="Chat Interface" width="80%" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2);" />
 </p>
 
 ---
@@ -49,7 +50,7 @@ Below are key sections of the application with modern interface designs.
 ### 📹 Video Call
 
 <p align="center">
-  <img src="images/Screenshot_14-7-2025_115051_streamify-ab4y-onrender-com.jpeg" alt="Video Call" width="80%" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2);" />
+  <img src="images\Screenshot_14-7-2025_115051_streamify-ab4y.onrender.com.jpeg" alt="Video Call" width="80%" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2);" />
 </p>
 
 ---
@@ -57,7 +58,7 @@ Below are key sections of the application with modern interface designs.
 ### 🏠 Home Page
 
 <p align="center">
-  <img src="images/Screenshot_14-7-2025_115358_streamify-ab4y-onrender-com.jpeg" alt="Home Page" width="80%" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2);" />
+  <img src="images\Screenshot_14-7-2025_115358_streamify-ab4y.onrender.com.jpeg" alt="Home Page" width="80%" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2);" />
 </p>
 
 ## 🚀 Features
